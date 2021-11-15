@@ -34,7 +34,7 @@
     "wait-on": "^3.2.0"
   },
   "dependencies": {
-    "@okta/jwt-verifier": "0.0.14",
+    "@okta/jwt-verifier": "0.0.16",
     "@okta/oidc-middleware": "^2.0.0",
     "colors": "^1.1.2",
     "cors": "^2.8.4",

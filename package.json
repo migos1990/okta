@@ -38,7 +38,7 @@
     "@okta/oidc-middleware": "^2.0.0",
     "colors": "^1.1.2",
     "cors": "^2.8.4",
-    "express": "^4.14.0",
+    "express": "^4.17.1",
     "express-session": "^1.15.6",
     "mustache-express": "^1.2.5"
   }
